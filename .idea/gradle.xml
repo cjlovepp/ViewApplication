@@ -9,7 +9,12 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AdapterViewApp" />
+            <option value="$PROJECT_DIR$/GridLayoutApp" />
+            <option value="$PROJECT_DIR$/ImgViewApp" />
+            <option value="$PROJECT_DIR$/adapterviewflipper" />
             <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/progressbarapp" />
           </set>
         </option>
       </GradleProjectSettings>

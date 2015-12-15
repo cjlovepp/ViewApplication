@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AdapterViewApp/AdapterViewApp.iml" filepath="$PROJECT_DIR$/AdapterViewApp/AdapterViewApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/GridLayoutApp/GridLayoutApp.iml" filepath="$PROJECT_DIR$/GridLayoutApp/GridLayoutApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImgViewApp/ImgViewApp.iml" filepath="$PROJECT_DIR$/ImgViewApp/ImgViewApp.iml" />
       <module fileurl="file://$PROJECT_DIR$/ViewApplication.iml" filepath="$PROJECT_DIR$/ViewApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterviewflipper/adapterviewflipper.iml" filepath="$PROJECT_DIR$/adapterviewflipper/adapterviewflipper.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/progressbarapp/progressbarapp.iml" filepath="$PROJECT_DIR$/progressbarapp/progressbarapp.iml" />
     </modules>
   </component>
 </project>

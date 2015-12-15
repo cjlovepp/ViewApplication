@@ -1,0 +1,33 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="com.example.cj.adapterviewflipper.StackViewActivity">
+
+    <StackView
+        android:id="@+id/stackView"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent">
+    </StackView>
+
+    <Button
+        android:id="@+id/preview2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="上一张"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:onClick="toPreview"/>
+
+    <Button
+        android:id="@+id/next2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="下一张"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:onClick="toNext"/>
+
+</RelativeLayout>
